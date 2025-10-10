@@ -1,0 +1,13 @@
+author = "Linux Gaming Central"
+description = "A love letter to Alkazar, who created the original Kazeta concept. (NOTE: no sound effects are supplied with this theme.)"
+menu_position = "BottomLeft"
+font_color = "BLUE"
+cursor_color = "GREEN"
+background_scroll_speed = "OFF"
+color_shift_speed = "OFF"
+
+bgm_track = "futurama_bgm.ogg"
+logo_selection = "futurama_logo.png"
+background_selection = "futurama_background.png"
+font_selection = "futurama_font.ttf"
+sfx_pack = "futurama_sfx"

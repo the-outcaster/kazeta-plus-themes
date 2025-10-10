@@ -1,0 +1,13 @@
+author = "Monika"
+description = "Why are you using other themes for this so-called 'Kazeta' project? I deleted all of your themes so you can focus on just me."
+menu_position = "BottomLeft"
+font_color = "PINK"
+cursor_color = "PINK"
+background_scroll_speed = "OFF"
+color_shift_speed = "OFF"
+
+bgm_track = "ddlc_bgm.ogg"
+logo_selection = "ddlc_logo.png"
+background_selection = "ddlc_background.png"
+font_selection = "ddlc_font.ttf"
+sfx_pack = "ddlc_sfx"

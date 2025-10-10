@@ -1,0 +1,13 @@
+author = "Linux Gaming Central"
+description = "Soul Calibur II...without the actual font."
+menu_position = "TopRight"
+font_color = "YELLOW"
+cursor_color = "WHITE"
+background_scroll_speed = "OFF"
+color_shift_speed = "OFF"
+
+bgm_track = "soul_calibur_ii_bgm.ogg"
+logo_selection = "None"
+background_selection = "soul_calibur_ii_background.png"
+font_selection = "soul_calibur_ii_font.ttf"
+sfx_pack = "soul_calibur_ii_sfx"

@@ -1,0 +1,13 @@
+author = "Linux Gaming Central"
+description = "Guilty Gear -STRIVE- Theme"
+menu_position = "TopLeft"
+font_color = "BLUE"
+cursor_color = "BLUE"
+background_scroll_speed = "OFF"
+color_shift_speed = "OFF"
+
+bgm_track = "gg_strive_bgm.ogg"
+logo_selection = "gg_strive_logo.png"
+background_selection = "gg_strive_background.png"
+font_selection = "gg_strive_font.ttf"
+sfx_pack = "gg_strive_sfx"
